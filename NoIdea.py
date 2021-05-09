@@ -20,7 +20,9 @@ print(happiness)
 
 
 
-'''example input:
+'''
+https://www.hackerrank.com/challenges/no-idea/problem
+example input:
 3 2
 1 5 3
 3 1
